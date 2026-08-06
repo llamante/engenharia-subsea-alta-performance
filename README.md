@@ -14,7 +14,7 @@ Este repositório foi desenvolvido como a entrega final para o desafio de projet
 
 Para facilitar a sua navegação pelo projeto, os arquivos foram estruturados da seguinte forma:
 
-*   **`README.md`**: Este arquivo guia que você está lendo, estruturado com toda a documentação teórica, glossário e registros de engenharia de prompts [1].
+*   [**`README.md`**](https://github.com/llamante/engenharia-subsea-alta-performance/blob/main/README.md): Este arquivo guia que você está lendo, estruturado com toda a documentação teórica, glossário e registros de engenharia de prompts [1].
 *   [especificacoes-frota-rovs.pdf](https://github.com/user-attachments/files/30789875/especificacoes-frota-rovs.pdf): Relatório técnico consolidado em alta definição, contendo gráficos comparativos e análises detalhadas da mecânica, potência e aplicação da frota de ROVs.
 *   **`docs/Apresentação Técnica: TechnipFMC e a Frota Robótica de ROVs.pdf`** *(ou formato .pptx)*: Slides interativos e altamente visuais utilizados para a defesa do projeto e apresentação do ecossistema corporativo e tecnológico.
 *   **`video/TechnipFMC: Mastering Subsea Engineering and Robotic Innovation.mp4`**: Vídeo explicativo e narrado em Português do Brasil, sintetizando de forma dinâmica os maiores desafios físicos do abismo e as soluções autônomas desenvolvidas pela empresa.
