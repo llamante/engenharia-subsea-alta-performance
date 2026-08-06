@@ -14,23 +14,23 @@ Este repositório foi desenvolvido como a entrega final para o desafio de projet
 
 Para facilitar a sua navegação pelo projeto, os arquivos foram estruturados da seguinte forma:
 
-*   [**`README.md`**](https://github.com/llamante/engenharia-subsea-alta-performance/blob/main/README.md): Este arquivo guia que você está lendo, estruturado com toda a documentação teórica, glossário e registros de engenharia de prompts [1].
-*   [especificacoes-frota-rovs.pdf](https://github.com/user-attachments/files/30789875/especificacoes-frota-rovs.pdf): Relatório técnico consolidado em alta definição, contendo gráficos comparativos e análises detalhadas da mecânica, potência e aplicação da frota de ROVs.
-*   **`docs/Apresentação Técnica: TechnipFMC e a Frota Robótica de ROVs.pdf`** *(ou formato .pptx)*: Slides interativos e altamente visuais utilizados para a defesa do projeto e apresentação do ecossistema corporativo e tecnológico.
-*   **`video/TechnipFMC: Mastering Subsea Engineering and Robotic Innovation.mp4`**: Vídeo explicativo e narrado em Português do Brasil, sintetizando de forma dinâmica os maiores desafios físicos do abismo e as soluções autônomas desenvolvidas pela empresa.
+*   [**`README.md`**](https://github.com/llamante/engenharia-subsea-alta-performance/blob/main/README.md): Este arquivo guia que você está lendo, estruturado com toda a documentação teórica, glossário e registros de engenharia de prompts.
+* Relatório técnico consolidado em alta definição, contendo gráficos comparativos e análises detalhadas da mecânica, potência e aplicação da frota de ROVs.
+* Slides interativos e altamente visuais utilizados para a defesa do projeto e apresentação do ecossistema corporativo e tecnológico.
+* Vídeo explicativo e narrado em Português do Brasil, sintetizando de forma dinâmica os maiores desafios físicos do abismo e as soluções autônomas desenvolvidas pela empresa.
 
 ---
 
 ## 1. Contexto e Objetivos
 
 ### 🌌 O Desafio Abissal (Física Extrema)
-A exploração de petróleo e gás em águas ultraprofundas é um dos cenários mais hostis do planeta, superando em diversos aspectos as dificuldades encontradas na exploração espacial [2, 3]. A **6.000 metros de profundidade**, a pressão hidrostática exercida sobre os equipamentos chega a **600 vezes a pressão atmosférica** do nível do mar (aproximadamente 600 atm) [3, 4]. Sob essa magnitude de força, qualquer falha de vedação ou calibração resulta no colapso instantâneo de estruturas de metal maciço e componentes eletrônicos em frações de milissegundos [3, 4].
+A exploração de petróleo e gás em águas ultraprofundas é um dos cenários mais hostis do planeta, superando em diversos aspectos as dificuldades encontradas na exploração espacial. A **6.000 metros de profundidade**, a pressão hidrostática exercida sobre os equipamentos chega a **600 vezes a pressão atmosférica** do nível do mar (aproximadamente 600 atm). Sob essa magnitude de força, qualquer falha de vedação ou calibração resulta no colapso instantâneo de estruturas de metal maciço e componentes eletrônicos em frações de milissegundos.
 
 ### 🎯 Objetivos deste Estudo
-*   **Demonstrar Maturidade Corporativa:** Compreender as dinâmicas de fusões, splits corporativos e compliance que moldam as grandes petrolíferas mundiais [5, 6].
-*   **Mapear Soluções de Engenharia Naval:** Estudar os limites físicos e os métodos de instalação de linhas rígidas e flexíveis sob a força da gravidade [7, 8].
-*   **Analisar a Frota Robótica:** Catalogar e contrastar as diferentes capacidades dos ROVs (*Remotely Operated Vehicles*) desenvolvidos pela divisão Schilling Robotics [4, 9, 10].
-*   **Garantir Alinhamento DIO:** Cumprir com excelência todos os requisitos do modelo oficial de portfólio técnico de IA [1].
+*   **Demonstrar Maturidade Corporativa:** Compreender as dinâmicas de fusões, splits corporativos e compliance que moldam as grandes petrolíferas mundiais.
+*   **Mapear Soluções de Engenharia Naval:** Estudar os limites físicos e os métodos de instalação de linhas rígidas e flexíveis sob a força da gravidade.
+*   **Analisar a Frota Robótica:** Catalogar e contrastar as diferentes capacidades dos ROVs (*Remotely Operated Vehicles*) desenvolvidos pela divisão Schilling Robotics.
+*   **Garantir Alinhamento DIO:** Cumprir com excelência todos os requisitos do modelo oficial de portfólio técnico de IA.
 
 ---
 
@@ -38,10 +38,12 @@ A exploração de petróleo e gás em águas ultraprofundas é um dos cenários 
 
 O embasamento científico e técnico deste repositório foi construído a partir de uma cuidadosa seleção de 4 fontes institucionais e operacionais:
 
-1.  **Lâminas Técnicas Corporativas (`TechnipFMC_Subsea_Mastery.2 (2).pdf`):** Documento oficial com especificações físicas, financeiras (ano base 2022) e detalhes de engenharia de toda a frota robótica.
+1.  **Lâminas Técnicas Corporativas (https://github.com/user-attachments/files/30794805/TechnipFMC_Subsea_Mastery.2.2.pdf):** Documento oficial com especificações físicas, financeiras (ano base 2022) e detalhes de engenharia de toda a frota robótica.
 2.  **Transmissão Técnica: "O Mundo Invisível" (`O_Mundo_Invisível.mp4`):** Transcrição de áudio focada em governança, compliance legal, a física esmagadora do abismo e os limites de operação modular [2, 4, 5].
 3.  **Análise de Automação: "Robótica Submarina" (`Robótica_Submarina.mp4`):** Discussão sobre engenharia de dutos, sistemas de segurança de poço (BOP), tecnologia de compressão H.264 e o futuro da pilotagem em terra [8, 11-13].
 4.  **Modelo de Orientação DIO (`Captura de tela 2026-08-06 095942.png`):** Diretrizes metodológicas oficiais para estruturação do portfólio técnico de excelência [1].
+
+[TechnipFMC_Subsea_Mastery.2 (2).pdf](https://github.com/user-attachments/files/30794805/TechnipFMC_Subsea_Mastery.2.2.pdf)
 
 ---
 
