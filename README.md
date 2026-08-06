@@ -41,8 +41,9 @@ O embasamento científico e técnico deste repositório foi construído a partir
 1.  **Lâminas Técnicas Corporativas ([TechnipFMC_Subsea_Mastery.pptx](https://github.com/user-attachments/files/30795227/TechnipFMC_Subsea_Mastery.pptx)
 ):** Documento oficial com especificações físicas, financeiras (ano base 2022) e detalhes de engenharia de toda a frota robótica.
 2.  **Transmissão Técnica: "O Mundo Invisível" (https://www.youtube.com/watch?v=p-ZLJ7U7JfY&t=5s):** Transcrição de áudio focada em governança, compliance legal, a física esmagadora do abismo e os limites de operação modular [2, 4, 5].
-3.  **Análise de Automação: "Robótica Submarina" (`Robótica_Submarina.mp4`):** Discussão sobre engenharia de dutos, sistemas de segurança de poço (BOP), tecnologia de compressão H.264 e o futuro da pilotagem em terra [8, 11-13].
-4.  **Modelo de Orientação DIO (`Captura de tela 2026-08-06 095942.png`):** Diretrizes metodológicas oficiais para estruturação do portfólio técnico de excelência [1].
+3.  **Análise de Automação: "Robótica Submarina" (https://www.youtube.com/watch?v=W84eMccpQTs&t=41s):** Discussão sobre engenharia de dutos, sistemas de segurança de poço (BOP), tecnologia de compressão H.264 e o futuro da pilotagem em terra [8, 11-13].
+4.  **Modelo de Orientação DIO (<img width="899" height="530" alt="Captura de tela 2026-08-06 095942" src="https://github.com/user-attachments/assets/82c4c75c-39e6-4135-a28a-5284313a9913" />
+):** Diretrizes metodológicas oficiais para estruturação do portfólio técnico de excelência [1].
 
 ---
 
