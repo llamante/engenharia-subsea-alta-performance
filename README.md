@@ -5,11 +5,15 @@
 
 [TechnipFMC_Subsea_Mastery (2).pdf](https://github.com/user-attachments/files/30729606/TechnipFMC_Subsea_Mastery.2.pdf)
 
-[README (2).md](https://github.com/user-attachments/files/30765246/README.2.md)
 
 
-https://notebook.google.com/notebook/dc49f3f1-72b8-4225-bd98-d570975d1cea/preview
 
-"C:\Users\Lucas\Downloads\Robótica_Submarina.mp4"
+
+
+
+
+
+
+
 
 
