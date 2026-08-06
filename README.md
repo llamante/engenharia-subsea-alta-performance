@@ -3,7 +3,7 @@
 
 [especificacoes-frota-rovs.pdf](https://github.com/user-attachments/files/30789875/especificacoes-frota-rovs.pdf)
 
-
+https://youtu.be/W84eMccpQTs
 
 
 
