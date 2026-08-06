@@ -21,7 +21,7 @@ Para facilitar a sua navegação pelo projeto, os arquivos foram estruturados da
     
 ---
 
-## 1. Contexto e Objetivos
+## . Contexto e Objetivos
 
 ### 🌌 O Desafio Abissal (Física Extrema)
 A exploração de petróleo e gás em águas ultraprofundas é um dos cenários mais hostis do planeta, superando em diversos aspectos as dificuldades encontradas na exploração espacial. A **6.000 metros de profundidade**, a pressão hidrostática exercida sobre os equipamentos chega a **600 vezes a pressão atmosférica** do nível do mar (aproximadamente 600 atm). Sob essa magnitude de força, qualquer falha de vedação ou calibração resulta no colapso instantâneo de estruturas de metal maciço e componentes eletrônicos em frações de milissegundos.
@@ -34,7 +34,7 @@ A exploração de petróleo e gás em águas ultraprofundas é um dos cenários 
 
 ---
 
-## 2. Curadoria de Fontes
+## . Curadoria de Fontes
 
 O embasamento científico e técnico deste repositório foi construído a partir de uma cuidadosa seleção de 4 fontes institucionais e operacionais:
 
@@ -47,7 +47,7 @@ O embasamento científico e técnico deste repositório foi construído a partir
 
 ---
 
-## 3. Engenharia de Prompts e "Cicatrizes" (Troubleshooting)
+## . Engenharia de Prompts e "Cicatrizes" (Troubleshooting)
 
 Para atingir a precisão técnica exigida neste desafio, foi necessária uma postura ativa de refinamento de instruções (Prompts) para as IAs generativas, combatendo alucinações de dados técnicos.
 
@@ -69,7 +69,7 @@ Para atingir a precisão técnica exigida neste desafio, foi necessária uma pos
 
 ---
 
-## 4. Miniguia de Estudo (Entrega Final)
+## . Miniguia de Estudo (Entrega Final)
 
 ### 📚 Resumos Estruturados
 
