@@ -6,7 +6,7 @@
 ## 🎓 Repositório Técnico "Nota 10" — Desafio de Projeto DIO
 ---
 
-Este repositório foi desenvolvido como a entrega final para o desafio de projeto da **Digital Innovation One (DIO)** [1]. O objetivo principal é consolidar um portfólio de engenharia de nível internacional, analisando o ecossistema de operação submarina em águas ultraprofundas e a frota de robôs submarinos da **TechnipFMC** [2].
+Este repositório foi desenvolvido como a entrega final para o desafio de projeto da **Digital Innovation One (DIO)**. O objetivo principal é consolidar um portfólio de engenharia de nível internacional, analisando o ecossistema de operação submarina em águas ultraprofundas e a frota de robôs submarinos da **TechnipFMC**.
 
 ---
 
@@ -93,13 +93,13 @@ A divisão de robótica estabeleceu três pilares de confiabilidade operacional 
 
 | Especificação Técnica | Modelo HD (Trabalho Pesado) | Modelo UHD-III (Ultra-Pesado) | Modelo eHD (Híbrido de Alta Velocidade) |
 | :--- | :--- | :--- | :--- |
-| **Arquitetura Base** | Hidráulica Pura [11] | Hidráulica Pura [10, 12] | Híbrida (Elétrica + Hidráulica) [11, 14] |
+| **Arquitetura Base** | Hidráulica Pura | Hidráulica Pura | Híbrida (Elétrica + Hidráulica) |
 | **Potência** | HPU de 150-hp + 52-hp aux. | HPU de 250-hp + 150-hp aux. | Propulsão Elétrica Direta |
 | **Força de Tração** | 900 kgf | 1.200 kgf | 1.250 kgf |
 | **Peso no Ar** | 3.600 kg | ~6 toneladas (5.600 kg) | 4.100 kg |
 | **Carga Útil (Payload)**| 150 a 250 kg | Até 600 kg | 250 a 450 kg |
 | **Uso Principal** | Reparo, manutenção (IMR) e suporte de perfuração | Perfuração e intervenções ultra-pesadas em BOP [10] | Trânsito rápido e intervenções de alta eficiência com compatibilidade legada|
-| **Inovação Exclusiva** | Compressão de vídeo digital H.264 sobre fibra óptica de 6 km com latência zero [9, 11] | **Bomba ISOL-8** (8 cilindros) para intervenção secundária autônoma em BOP (Norma API 53) | Motores elétricos de alta velocidade integrados a braços hidráulicos para compatibilidade retroativa |
+| **Inovação Exclusiva** | Compressão de vídeo digital H.264 sobre fibra óptica de 6 km com latência zero  | **Bomba ISOL-8** (8 cilindros) para intervenção secundária autônoma em BOP (Norma API 53) | Motores elétricos de alta velocidade integrados a braços hidráulicos para compatibilidade retroativa |
 
 ---
 
@@ -107,18 +107,15 @@ A divisão de robótica estabeleceu três pilares de confiabilidade operacional 
 
 *   **BOP (Blowout Preventor):** Conjunto massivo de válvulas de segurança de emergência instaladas diretamente sobre a cabeça do poço de petróleo no leito marinho. Sua função é vedar totalmente o fluxo do poço em caso de descontrole de pressão na formação geológica.
 *   **Bomba ISOL-8:** Tecnologia exclusiva instalada no ROV UHD-III. Trata-se de uma bomba auxiliar de 8 cilindros testada para os padrões API 53, capaz de bombear fluido para fechar o BOP de forma autônoma se os sistemas de controle do navio ou da plataforma falharem.
-*   **Ferramentas Legadas (Legacy Tools):** Infraestrutura submarina bilionária (como válvulas e acoplamentos) instalada no leito oceânico ao longo das últimas décadas [13, 14]. Por ter sido projetada para acionamento mecânico-hidráulico tradicional, exige que novos robôs híbridos (eHD) mantenham capacidade de atuação hidráulica ativa.
+*   **Ferramentas Legadas (Legacy Tools):** Infraestrutura submarina bilionária (como válvulas e acoplamentos) instalada no leito oceânico ao longo das últimas décadas. Por ter sido projetada para acionamento mecânico-hidráulico tradicional, exige que novos robôs híbridos (eHD) mantenham capacidade de atuação hidráulica ativa.
 *   **Pilotagem Remota da Costa:** Operação cirúrgica de ROVs a 6.000 metros de profundidade com latência de milissegundos, onde o piloto fica baseado em terra (Houston ou Paris) em escritórios climatizados, em vez de enfrentar os riscos físicos de isolamento a bordo de embarcações em alto mar.
 
 ---
 
 ## 🏆 Conclusão e Referências
 
-O desenvolvimento deste portfólio demonstra que o futuro da engenharia submarina caminha a passos largos para a **automação total e digitalização** [17, 18]. A eliminação do risco humano direto através da pilotagem remota de escritórios em terra redefine o conceito de segurança no trabalho industrial pesado [13, 17, 18].
+O desenvolvimento deste portfólio demonstra que o futuro da engenharia submarina caminha a passos largos para a **automação total e digitalização**. A eliminação do risco humano direto através da pilotagem remota de escritórios em terra redefine o conceito de segurança no trabalho industrial pesado.
 
-*   *TechnipFMC Corporate Data & Robotic Specifications (2022/2026).*
-*   *Schilling Robotics Systems Architecture & API 53 Standards [10, 12].*
-*   *Digital Innovation One (DIO) — Metodologia de Portfólio de IA [1].*
 
 
 
